@@ -8,9 +8,9 @@ paint:
     - - get
       - 図式コード
     - 9501
-    - rgb(214, 216, 212)
+    - '#90847A'
     - 9601
-    - rgb(205, 230, 253)
+    - '#CACCD4'
     - rgb(255, 0, 0)
   fill-opacity: 
     - interpolate
